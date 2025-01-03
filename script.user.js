@@ -1,8 +1,8 @@
 // ==UserScript==
-// @name         AUTOCASH Invoice Value Copy
-// @namespace    http://kok.com/
-// @version      2025-01-02
-// @description  Copy the corresponse invoice value to clipboard
+// @name         AUTOCASH Invoice Values Copy
+// @namespace    https://soonkok.com/
+// @version      02 Jan 2025
+// @description  Copy the corresponse invoice values to clipboard
 // @author       soonkok
 // @match        https://erp.autocash.com.my/autocash/invoice/
 // @icon         https://autocash.my/favicon.ico
@@ -84,7 +84,6 @@ const sessionCookie = getCookie('sf_session');
                 }
             }
         }
-
         setTimeout(logHrefAttributes, 1000);
     }
 
