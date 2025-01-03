@@ -7,7 +7,7 @@
 // @match        https://erp.autocash.com.my/autocash/invoice/
 // @icon         https://autocash.my/favicon.ico
 // @downloadURL  https://github.com/PureUsername/atc_hack/raw/main/script.user.js
-// @version      1.0
+// @version      1.0.0
 // ==/UserScript==
 
 // Function to get a cookie by name
