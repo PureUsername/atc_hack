@@ -2,7 +2,6 @@
 // @name         AUTOCASH Invoice Values Copy
 // @namespace    https://soonkok.com/
 // @version      1.0.0
-// @version      02 Jan 2025
 // @description  Copy the corresponse invoice values to clipboard
 // @author       soonkok
 // @match        https://erp.autocash.com.my/autocash/invoice/
